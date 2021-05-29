@@ -13,7 +13,6 @@ You can click the Preview link to take a look at your changes.
 
 The Zen of Python, by Tim Peters
 
-
 Beautiful is better than ugly.
 
 Explicit is better than implicit.
