@@ -11,6 +11,8 @@ Amy22707/Amy22707 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
+[About me](https://amy22707.github.io/)
+
 The Zen of Python, by Tim Peters
 
 Beautiful is better than ugly.
