@@ -1,54 +1,96 @@
-<!---
-- 👋 Hi, I’m @Amy22707
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
+<div align="center">
 
-<!---
-Amy22707/Amy22707 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, I'm Xue Zhiyao👋
 
-[About me](https://amy22707.github.io/)
+**Undergraduate at EECS, Peking University**
 
-The Zen of Python, by Tim Peters
+*Student · Developer · Explorer*
 
-Beautiful is better than ugly.
+[Personal Website](https://amy22707.github.io/) · [Projects](https://amy22707.github.io/projects/) · [Blog](https://amy22707.github.io/blog/) · [Email](mailto:zhiyaoxue25@stu.pku.edu.cn)
 
-Explicit is better than implicit.
+</div>
 
-Simple is better than complex.
+## About Me
 
-Complex is better than complicated.
+I am an undergraduate student at the School of Electronics Engineering and Computer Science, Peking University, studying computer science and artificial intelligence.
 
-Flat is better than nested.
+I enjoy understanding why systems work and turning vague ideas into things that actually run. My current interests lie in **machine learning**, **reinforcement learning**, **intelligent agents**, and **embodied AI**.
 
-Sparse is better than dense.
+> Anything one man can imagine, other men can make real.
 
-Readability counts.
+## Technical Toolkit
 
-Special cases aren't special enough to break the rules.
+- **Languages:** C++, Python, TypeScript
+- **AI & Data:** PyTorch, NumPy, Machine Learning, Reinforcement Learning
+- **Tools:** Git, Linux, Astro, LaTeX
 
-Although practicality beats purity.
+## Selected Projects
 
-Errors should never pass silently.
+### [Chinese Standard Mahjong AI](https://github.com/Amy22707/Chinese-Standard-Mahjong)
 
-Unless explicitly silenced.
+An intelligent agent for Chinese Standard Mahjong built with supervised learning and reinforcement learning, including training, evaluation, and model-management workflows.
 
-In the face of ambiguity, refuse the temptation to guess.
+`Python` `PyTorch` `Reinforcement Learning`
 
-There should be one-- and preferably only one --obvious way to do it.
+### [Personal Homepage](https://github.com/Amy22707/Amy22707.github.io)
 
-Although that way may not be obvious at first unless you're Dutch.
+My personal website for sharing projects, technical writing, and interests, built with Astro and Markdown.
 
-Now is better than never.
+`Astro` `TypeScript` `Tailwind CSS`
 
-Although never is often better than *right* now.
+## Education
 
-If the implementation is hard to explain, it's a bad idea.
+- **Peking University · EECS** — Undergraduate, Computer Science & Artificial Intelligence  
+  *September 2025 — Present*
 
-If the implementation is easy to explain, it may be a good idea.
+- **Shanghai High School** — Senior High School Student  
+  *September 2022 — June 2025*
 
-Namespaces are one honking great idea -- let's do more of those!
+## Publications
+
+Publications and research notes will be added here as my work develops.
+
+<!--
+Replace the placeholder below and remove this comment wrapper when ready.
+
+- **Your Paper Title**  
+  Xue Zhiyao, Coauthor Name  
+  *Conference, Journal, Workshop, or arXiv, 20XX*  
+  [Paper](https://example.com) · [Code](https://github.com/Amy22707)
+-->
+
+## Awards & Honors
+
+<!--
+Add one line for each award, for example:
+
+- **Award or Honor** — Issuing Organization, 20XX
+-->
+
+This section is being updated.
+
+## Beyond Code
+
+- Interested in classical and contemporary Chinese poetry
+- Curious about esotericism and the ways people make sense of the world
+- Interested in campus life, community work, writing, and reflection
+
+## Currently Exploring
+
+- Reinforcement learning and intelligent agents
+- Chinese Standard Mahjong AI
+- New possibilities at the intersection of AI and the web
+
+## Connect
+
+- **Website:** [amy22707.github.io](https://amy22707.github.io/)
+- **GitHub:** [@Amy22707](https://github.com/Amy22707)
+- **Email:** zhiyaoxue25@stu.pku.edu.cn
+
+---
+
+<div align="center">
+
+*Learning by building, one system at a time.*
+
+</div>
